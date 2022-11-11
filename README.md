@@ -16,7 +16,7 @@
 
 #### - Develop a website for searching films;
 
-#### - Adaptive layout for three breakpoints 320px, 768px, 1280px
+#### - Adaptive layout for three breakpoints 320px, 768px, 1280px;
 
 #### - Organize user's library for collecting favorite and watched films;
 
