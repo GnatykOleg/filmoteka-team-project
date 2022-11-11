@@ -31,5 +31,3 @@
 #### - Develop arrow to top.
 
 #### - Develov dynamic backdrop image.
-
-![filmoteka](./src/images/filmoteka.jpg)
