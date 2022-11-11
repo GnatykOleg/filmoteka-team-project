@@ -10,6 +10,8 @@
 
 ### The project is based on Parcel.
 
+### Using Vanilla Javascript, SCSS, HTML.
+
 ## Tasks
 
 #### - Develop a website for searching films;
